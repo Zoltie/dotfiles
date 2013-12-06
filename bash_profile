@@ -13,5 +13,6 @@ fi
 # User specific environment and startup programs
 
 PATH=$PATH:$HOME/.local/bin:$HOME/bin
+PATH=$PATH:$HOME/bin
 
 export PATH
